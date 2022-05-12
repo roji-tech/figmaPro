@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/figmaPro/static/css/main.9efa312d.css",
+    "main.js": "/figmaPro/static/js/main.27a89431.js",
+    "static/media/bgfigma.jpeg": "/figmaPro/static/media/bgfigma.9bc6f7066aee88369a5e.jpeg",
+    "static/media/pics1..png": "/figmaPro/static/media/pics1..31b36f0c96615a739a60.png",
+    "static/media/pics4.png": "/figmaPro/static/media/pics4.4204097c1928413aa0ae.png",
+    "static/media/pics2.png": "/figmaPro/static/media/pics2.2b826e95cfecf1ee5b29.png",
+    "static/media/pics3.png": "/figmaPro/static/media/pics3.2b826e95cfecf1ee5b29.png",
+    "static/media/sect4Img.jpg": "/figmaPro/static/media/sect4Img.581b81a7403458d8a768.jpg",
+    "static/media/map.png": "/figmaPro/static/media/map.274d614f577b0c8a78c0.png",
+    "static/media/pics5.jpg": "/figmaPro/static/media/pics5.f4c06b7f820bd4a03beb.jpg",
+    "static/media/intra.svg": "/figmaPro/static/media/intra.73644d15a55d324ef1d2f7e85456ca9d.svg",
+    "static/media/silver-star.svg": "/figmaPro/static/media/silver-star.c0cf684f0cf19e6c0735ea9c5c11097a.svg",
+    "static/media/mastercard.svg": "/figmaPro/static/media/mastercard.31d80372c0ec64d8f22ae6b0ba919b4d.svg",
+    "static/media/nike.svg": "/figmaPro/static/media/nike.2974f294b4a8194523c1d30ab1e794ae.svg",
+    "static/media/apple-pay.svg": "/figmaPro/static/media/apple-pay.51773cf82eebe50bc6709e12704f43fd.svg",
+    "index.html": "/figmaPro/index.html",
+    "static/media/flight1.svg": "/figmaPro/static/media/flight1.f797e7d51dbf7b4cea58307852ecf1ab.svg",
+    "static/media/flight.svg": "/figmaPro/static/media/flight.86a99612ac1428bbcdb3604a3857ab01.svg",
+    "main.9efa312d.css.map": "/figmaPro/static/css/main.9efa312d.css.map",
+    "main.27a89431.js.map": "/figmaPro/static/js/main.27a89431.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9efa312d.css",
+    "static/js/main.27a89431.js"
+  ]
+}
