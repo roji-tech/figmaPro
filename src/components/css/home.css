@@ -1,0 +1,124 @@
+.main {
+    --bluish-color: rgb(61, 151, 253);
+
+
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 8%;
+  margin: 0;
+  border: 0;
+  position: relative;
+  min-height: 120vh;
+}
+
+.banner {
+  /* margin: 100; */
+  border: 0;
+  /* padding-left: 10%; */
+  color: rgb(255, 0, 0);
+  width: 100%;
+  min-height: 110vh;
+  background-image: url("../img/bgfigma.jpeg");
+  background-position: 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(0.45);
+  position: absolute;
+  z-index: -2;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.banner + h2 {
+  margin-top: 9%;
+  color: white;
+  font-size: 3em;
+  font-weight: 1000;
+}
+
+.banner-text {
+  font-size: 1.5em;
+  color: white;
+  line-height: 1.5em;
+  margin-top: -1%;
+}
+
+.bookBtn {
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: 800;
+  margin: 3.5em 0;
+  background-color: var(--bluish-color);
+  padding: 1.4em 3em;
+}
+
+.trip-booking {
+  /* position  */
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  transform: translateY(50%);
+  z-index: 10;
+
+  /* style  */
+  width: 80%;
+  /* height: 2em; */
+  padding: 2em 1.5em;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 0, 0, 5px 1px rgba(0, 0, 0, 0.4);
+  color: #000000;
+
+  /* display  */
+  display: flex;
+  justify-content: space-between;
+}
+
+.trip-booking select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  width: 100px;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-weight: bold;
+  margin-left: -5px;
+  background: none;
+  display: flex;
+}
+
+.trip-booking select::after{
+    content: "↓↓↓↓";
+    display: inline-block;
+    
+}
+
+
+.trip-booking select::-ms-expand {
+  display: none;
+}
+
+.trip-booking select option {
+  border: none;
+  padding: 4px;
+}
+
+.trip-booking button {
+    padding: 1em 3.5em;
+    border-radius: 10px;
+    color: white;
+    font-weight: 750;
+    background-color: var(--bluish-color);
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.trip-booking .bookBut .flight1 {
+    margin-left: 10px;
+
+
+}
+

@@ -1,13 +1,14 @@
-import './App.css';
+// components
+import Footer from "./components/Footer";
+import Home from "./components/Home";
+
 
 function App() {
-  return (
-    <div className="App">
-      <h1>
-        Figma Copy
-      </h1>
-    </div>
-  );
+	return (
+		<>
+			<Home />
+			<Footer />
+		</>
+	);
 }
-
 export default App;
