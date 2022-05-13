@@ -1,0 +1,28 @@
+.section1 {
+  height: 15em;
+  width: 100%;
+  background-color: var(--sect-bg-color);
+  position: relative;
+  display: flex;
+  justify-content: center;
+  border-bottom: .1px solid rgba(0, 0, 0, .4);
+}
+
+.sect1 {
+  /* padding: 0px 20px 0 40px; */
+  width: 70%;
+  position: absolute;
+  bottom: 25%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* .sect1 > img {
+    filter: brightness(0.9);  width: 100px;
+} */
+
+#ione {
+
+}
+

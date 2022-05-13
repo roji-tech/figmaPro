@@ -1,0 +1,74 @@
+.section2 {
+  background-color: var(--sect-bg-color);
+  text-align: center;
+  width: 100%;
+  padding-bottom: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.section2 .map {
+  background-image: url(../img/map.png);
+}
+
+.section2 .p1p2 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3em;
+}
+.section2 .p1 {
+  font-size: 2rem;
+  width: 70%;
+}
+.section2 .p2 {
+  width: 50%;
+  font-size: 1.2rem;
+}
+
+.span-stroke {
+  position: relative;
+  /* background-image: url(../img/down-arr.svg);
+  background-size: contain;
+  background-size: 200%; */
+}
+
+.p3 {
+  font-size: 2rem;
+}
+
+.section2 .regions {
+  margin-top: -2em;
+  padding-top: 10%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.section2 .regions .sect3-img {
+  width: 100%;
+  height: 100vh;
+}
+
+@media screen and (max-width: 800px) {
+  .section2 .regions .sect3-img {
+    width: 100%;
+    height: 80vh;
+  }
+  .section2 .p3 {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .section2 .regions .sect3-img {
+    width: 100%;
+    height: 70vh;
+  }
+  .section2 .p3 {
+    font-size: 1.2rem;
+  }
+}
+
+
