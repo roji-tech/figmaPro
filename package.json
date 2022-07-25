@@ -1,6 +1,5 @@
 {
-  "homepage": "https://roji-tech.github.io/figmaPro/",
-  "name": "react-app",
+  "name": "Arctic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
