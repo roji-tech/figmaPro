@@ -1,7 +1,6 @@
 import React from "react";
 
 import "./css/sect3.css";
-import img8 from "./img/pics3.png";
 import img6 from "./img/pics4.png";
 import img4 from "./img/pics1..png";
 import img5 from "./img/pics2.png";
